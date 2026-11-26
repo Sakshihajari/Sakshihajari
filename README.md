@@ -1,163 +1,192 @@
-<!-- ═══════ SAKSHI HAJARI | PREMIUM DEVELOPER PROFILE ═══════ -->
+
+<!-- ================= HERO SECTION ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:292010,70:9B7737,100:E6C77A&text=SAKSHI%20HAJARI&fontSize=52&fontColor=FFF4D6&fontAlignY=38&desc=DEVELOPER%20%7C%20AI%20%26%20ML%20ENTHUSIAST&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=E6C77A&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Sakshi+Hajari+%F0%9F%91%8B;Computer+Science+Graduate+%7C+MCA+Student;Python+%7C+Web+Development+%7C+DSA;Exploring+Artificial+Intelligence+%26+ML;Turning+Ideas+Into+Technology+%E2%9C%A8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:302515,100:C6A76A&text=SAKSHI%20HAJARI&fontSize=55&fontColor=F5E6C8&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=E6C77A)](https://github.com/Sakshihajari)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=E6C77A)](https://www.linkedin.com/in/sakshi-hajari/)
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=23&duration=3000&pause=1000&color=C6A76A&center=true&vCenter=true&width=650&lines=Building+Ideas+Through+Code+%26+Creativity;Exploring+AI+%26+Machine+Learning;Passionate+About+Technology+%26+Innovation;Always+Learning.+Always+Building." />
 
-<img src="https://komarev.com/ghpvc/?username=Sakshihajari&label=PROFILE+VIEWS&color=C5A059&style=flat-square" />
+<br/><br/>
 
-</div>
-
----
-
-## ✨ ABOUT ME
-
-Hello! I'm **Sakshi Hajari**, a Computer Science graduate currently pursuing MCA.
-
-I'm passionate about technology, software development and exploring innovative solutions.
-
-- 🎓 BSc Computer Science Graduate
-- 💻 Currently pursuing Master of Computer Applications
-- 🐍 Interested in Python and Software Development
-- 🌐 Exploring Web Development and API Integration
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🧠 Practicing Data Structures and Algorithms
-- 🌱 Always learning, experimenting and building
-
-**My philosophy:** Learn continuously, think creatively and build meaningfully.
-
----
-
-## 💻 TECHNICAL SKILLS
-
-<div align="center">
-
-### Programming & Web Development
-
-![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=FFD43B)
-![HTML5](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Computer Science Fundamentals
-
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-171717?style=for-the-badge&logo=thealgorithms&logoColor=E6C77A)
-![API](https://img.shields.io/badge/API_Integration-171717?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-### AI & Emerging Technologies
-
-![AI](https://img.shields.io/badge/Artificial_Intelligence-171717?style=for-the-badge&logo=probot&logoColor=E6C77A)
-![ML](https://img.shields.io/badge/Machine_Learning-171717?style=for-the-badge&logo=scikitlearn&logoColor=F0B44D)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=E6C77A)
-![VS Code](https://img.shields.io/badge/VS_Code-171717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
----
-
-## 🌟 SOFT SKILLS
-
-<div align="center">
-
-![Leadership](https://img.shields.io/badge/Leadership-C5A059?style=for-the-badge&logoColor=black)
-![Communication](https://img.shields.io/badge/Communication-C5A059?style=for-the-badge&logoColor=black)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-C5A059?style=for-the-badge&logoColor=black)
-![Quick Learning](https://img.shields.io/badge/Quick_Learning-C5A059?style=for-the-badge&logoColor=black)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-C5A059?style=for-the-badge&logoColor=black)
-
-</div>
-
----
-
-## 🚀 FEATURED PROJECT
-
-### 🔐 Face Recognition Based Secure App Launcher
-
-![Python](https://img.shields.io/badge/Python-9B7737?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-9B7737?style=flat-square&logo=opencv&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-9B7737?style=flat-square)
-
-A Python-based desktop security application that authenticates users through facial recognition before allowing access to selected applications.
-
-**Key Features:**
-- Real-time face recognition
-- User authentication
-- Secure application launching
-- Authorized and unauthorized access logging
-- Intruder image capture
-- Email notifications for unauthorized access
-
-**Technologies:** Python, OpenCV, Tkinter, CSV, Pyttsx3
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakshihajari&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E6C77A&text_color=F5EBD5&icon_color=C5A059"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E6C77A&text_color=F5EBD5"/>
+<a href="https://github.com/Sakshihajari">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=C6A76A"/>
+</a>
+<a href="https://www.linkedin.com/in/sakshi-hajari/">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=C6A76A"/>
+</a>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Sakshihajari&hide_border=true&background=0D0D0D&ring=E6C77A&fire=C5A059&currStreakLabel=E6C77A&sideLabels=E6C77A&dates=B8A98A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://komarev.com/ghpvc/?username=Sakshihajari&label=PROFILE%20VIEWS&color=C6A76A&style=flat-square" />
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS & CONTRIBUTIONS
+<!-- ================= ABOUT ME ================= -->
+
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshihajari&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+### Hello, I'm Sakshi!
 
-<br/>
+🎓 Computer Science Graduate | MCA Student
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshihajari&bg_color=0D0D0D&color=E6C77A&line=C5A059&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+💻 Interested in Software Development & Cybersecurity
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+🚀 Passionate about building meaningful projects and solving problems.
+
+🌱 Currently improving my DSA, development and technical skills.
+
+✨ Believe in continuous learning, creativity and innovation.
 
 </div>
 
 ---
 
-## 🎯 CURRENT FOCUS
+<!-- ================= TECH STACK ================= -->
 
-- Strengthening Data Structures and Algorithms
-- Building practical software development projects
-- Exploring AI and Machine Learning applications
-- Improving API integration and development skills
-- Learning new technologies and collaborating with developers
-
----
-
-## 🤝 LET'S CONNECT
+<h2 align="center">✦ TECHNOLOGIES & SKILLS ✦</h2>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E6C77A)](https://github.com/Sakshihajari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=E6C77A)](https://www.linkedin.com/in/sakshi-hajari/)
+### Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,java,mysql,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+### Other Technical Interests
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-C6A76A?style=for-the-badge&logo=thealgorithms&logoColor=black"/>
+<img src="https://img.shields.io/badge/API%20Development-C6A76A?style=for-the-badge&logo=fastapi&logoColor=black"/>
 
 <br/>
 
-**Open to learning, collaboration and exciting opportunities.**
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-C6A76A?style=for-the-badge&logo=googlecloud&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-C6A76A?style=for-the-badge&logo=tensorflow&logoColor=black"/>
 
-### ✨ Keep Learning. Keep Building. Keep Growing.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:E6C77A,50:9B7737,100:050505&section=footer" width="100%"/>
-
-💛 Thanks for visiting my profile!
+<img src="https://img.shields.io/badge/Leadership-C6A76A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Communication-C6A76A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-C6A76A?style=for-the-badge"/>
 
 </div>
 
-<!-- ═══════════════════ END ═══════════════════ -->
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">✦ SELECTED PROJECTS ✦</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 01. Face Recognition Security System
+
+Python-based facial authentication system with access control, access logging, intruder image capture and email alerts.
+
+**Tech:** Python · OpenCV · Tkinter
+
+</td>
+<td width="50%" align="center">
+
+### 02. Velora Motors
+
+A luxury automotive website concept with a premium dark-themed interface and modern web design.
+
+**Tech:** HTML · CSS · JavaScript
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">✦ GITHUB ANALYTICS ✦</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshihajari&show_icons=true&hide_border=true&bg_color=050505&title_color=C6A76A&icon_color=C6A76A&text_color=E8E0D2&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&hide_border=true&bg_color=050505&title_color=C6A76A&text_color=E8E0D2" />
+
+<br/><br/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshihajari&hide_border=true&background=050505&ring=C6A76A&fire=C6A76A&currStreakLabel=C6A76A&sideLabels=E8E0D2&dates=999999" />
+
+</div>
+
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+
+<h2 align="center">✦ LEARNING & ACHIEVEMENTS ✦</h2>
+
+<div align="center">
+
+🏆 McKinsey Forward Program
+
+🌟 Aspire Leaders Program
+
+☁️ Google Cloud Gen AI Exchange
+
+🔐 Deloitte Cybersecurity Job Simulation
+
+💡 Nestlé NestGen Masterclass
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+<h2 align="center">✦ CONTRIBUTION ACTIVITY ✦</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshihajari&bg_color=050505&color=C6A76A&line=C6A76A&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C6A76A,100:050505" />
+
+<h2>✦ LET'S CONNECT ✦</h2>
+
+### Have an idea? Let's build something meaningful.
+
+<a href="https://github.com/Sakshihajari">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-C6A76A?style=for-the-badge&logo=github&logoColor=050505"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sakshi-hajari/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=C6A76A"/>
+</a>
+
+<br/><br/>
+
+**"Dream. Develop. Innovate. Repeat."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C6A76A,100:050505&height=110&section=footer"/>
+
+</div>
