@@ -166,13 +166,18 @@ A luxury automotive website concept focused on elegant visual design and modern 
 ---
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakshihajari&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-D4AF37?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Continuous-Learner-D4AF37?style=for-the-badge&logo=googlescholar&logoColor=black" />
+  <img src="https://img.shields.io/badge/Building-Projects-D4AF37?style=for-the-badge&logo=codefactor&logoColor=black" />
 </p>
 
----
+<p align="center">
+  <i>Learning • Building • Exploring • Growing</i>
+</p>
+
 
 ## 🎓 Learning & Achievements
 
