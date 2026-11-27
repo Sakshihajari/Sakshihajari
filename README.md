@@ -145,25 +145,20 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshihajari&bg_color=0d1117&color=C6A76A&line=C6A76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Sakshihajari&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C6A76A&icon_color=C6A76A&text_color=FFFFFF&rank_icon=github"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshihajari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A&icon_color=C6A76A"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C6A76A&text_color=FFFFFF&langs_count=8"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A"/>
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshihajari&theme=tokyonight&hide_border=true&background=0D1117&ring=C6A76A&fire=C6A76A&currStreakLabel=C6A76A"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Sakshihajari&theme=dark&hide_border=true&background=0D1117&ring=C6A76A&fire=C6A76A&currStreakLabel=C6A76A"/>
 
 </div>
-
----
 
 
 ## 🏆 GitHub Highlights
