@@ -1,5 +1,4 @@
 
-
 <!-- =====================================================
      SAKSHI HAJARI | DEVELOPER PROFILE
      DARK EDITORIAL / MIDNIGHT GOLD EDITION
@@ -145,34 +144,35 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Sakshihajari&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C6A76A&icon_color=C6A76A&text_color=FFFFFF&rank_icon=github"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshihajari&bg_color=0d1117&color=C6A76A&line=C6A76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C6A76A&text_color=FFFFFF&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshihajari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A&icon_color=C6A76A"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Sakshihajari&theme=dark&hide_border=true&background=0D1117&ring=C6A76A&fire=C6A76A&currStreakLabel=C6A76A"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A"/>
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshihajari&theme=tokyonight&hide_border=true&background=0D1117&ring=C6A76A&fire=C6A76A&currStreakLabel=C6A76A"/>
 
 </div>
 
+---
 
-## 🏆 GitHub Highlights
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-D4AF37?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Continuous-Learner-D4AF37?style=for-the-badge&logo=googlescholar&logoColor=black" />
-  <img src="https://img.shields.io/badge/Building-Projects-D4AF37?style=for-the-badge&logo=codefactor&logoColor=black" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Learning • Building • Exploring • Growing</i>
-</p>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sakshihajari&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
+</div>
+
+---
 
 ## 🎓 Learning & Achievements
 
@@ -203,3 +203,5 @@ A luxury automotive website concept focused on elegant visual design and modern 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:302515,50:191725,100:101018"/>
 
 </div>
+
+
