@@ -148,8 +148,6 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 <div align="center">
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=24&duration=2500&pause=1000&color=C6A76A&center=true&vCenter=true&width=650&lines=✨+Keep+Learning.;💻+Keep+Building.;🚀+Keep+Innovating.;🌟+Creating+My+Own+Journey."/>
 
 </div>
