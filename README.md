@@ -144,7 +144,6 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -153,41 +152,15 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshihajari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A&icon_color=C6A76A"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Sakshihajari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A&icon_color=C6A76A&text_color=E8E0D2"/>
-
-</td>
-<td width="50%" align="center">
-
-<img width="100%" src="https://img.shields.io/badge/CURRENTLY%20EXPLORING-0D1117?style=for-the-badge&labelColor=0D1117&color=C6A76A"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PYTHON-C6A76A?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-C6A76A?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DSA-292524?style=flat-square"/>
-<img src="https://img.shields.io/badge/API%20DEVELOPMENT-292524?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-171923?style=for-the-badge&logoColor=C6A76A"/>
-
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshihajari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C6A76A"/>
 
 <br/><br/>
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshihajari&theme=tokyonight&hide_border=true&background=0D1117&ring=C6A76A&fire=C6A76A&currStreakLabel=C6A76A"/>
 
 </div>
-
 
 
 ## 🏆 GitHub Trophies
