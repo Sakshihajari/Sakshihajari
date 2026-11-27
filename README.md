@@ -165,13 +165,12 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 ---
 
+
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sakshihajari&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sakshihajari&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+</p>
 
 ---
 
