@@ -148,9 +148,7 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=24&duration=2500&pause=1000&color=C6A76A&center=true&vCenter=true&width=650&lines=✨+Keep+Learning.;💻+Keep+Building.;🚀+Keep+Innovating.;🌟+Creating+My+Own+Journey."/>
-
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshihajari&bg_color=0d1117&color=C6A76A&line=C6A76A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <br/><br/>
 
@@ -164,6 +162,7 @@ A luxury automotive website concept focused on elegant visual design and modern 
 
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -204,5 +203,3 @@ A luxury automotive website concept focused on elegant visual design and modern 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:302515,50:191725,100:101018"/>
 
 </div>
-
-
